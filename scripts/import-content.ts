@@ -1,0 +1,11 @@
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { manifest } from './shared.js';
+import { extract } from './content.js';
+const capture=manifest();
+const omitted=new Set(['/test-couleurs/','/fr/couleurs-de-test/','/welcome-old-2021/','/fr/bienvenue-vieille-annee-2021/','/welcome/','/fr/bienvenue/','/fr']);
+const seen=new Set<string>();
+const pages=Object.entries(capture.pages).filter(([url])=>{const path=new URL(url).pathname;if(omitted.has(path))return false;const key=path.replace(/\/$/,'');if(seen.has(key))return false;seen.add(key);return true;}).map(([url,r])=>extract(url,readFileSync(join('source',r.file),'utf8')));
+mkdirSync('content',{recursive:true});
+writeFileSync('content/pages.json',JSON.stringify(pages,null,2)+'\n');
+console.log(`Imported ${pages.length} editorial pages.`);

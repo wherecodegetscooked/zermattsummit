@@ -1,0 +1,26 @@
+{
+  "name": "zermatt-summit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "capture": "python3 scripts/capture.py",
+    "build": "tsx scripts/build.ts",
+    "check": "tsc --noEmit && tsx scripts/verify.ts",
+    "dev": "wrangler dev",
+    "deploy:workers": "pnpm build && wrangler deploy",
+    "deploy:pages": "pnpm build && wrangler pages deploy dist --project-name=zermatt-summit --config wrangler.pages.jsonc",
+    "import-content": "tsx scripts/import-content.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "cheerio": "^1.2.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "wrangler": "^4.147.0"
+  },
+  "packageManager": "pnpm@11.19.0"
+}

@@ -1,0 +1,292 @@
+{
+  "pages": 768,
+  "generatedDirectories": [
+    {
+      "url": "https://www.zermattsummit.org/topics/news/",
+      "title": "News",
+      "entries": 56
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/stories/",
+      "title": "Stories",
+      "entries": 18
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/100-solutions/",
+      "title": "100 Solutions",
+      "entries": 13
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/common-good/",
+      "title": "Common Good",
+      "entries": 7
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/zs/",
+      "title": "ZS",
+      "entries": 2
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/media-coverage/",
+      "title": "Media Coverage",
+      "entries": 3
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/featured/",
+      "title": "Featured",
+      "entries": 16
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/innovation/",
+      "title": "Innovation",
+      "entries": 8
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/nouvelles/",
+      "title": "Nouvelles",
+      "entries": 56
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/histoires/",
+      "title": "Histoires",
+      "entries": 18
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/100-solutions/",
+      "title": "100 Solutions",
+      "entries": 13
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/bien-commun/",
+      "title": "Bien commun",
+      "entries": 7
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/zs/",
+      "title": "ZS",
+      "entries": 2
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/couverture-mediatique/",
+      "title": "Couverture médiatique",
+      "entries": 3
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/en-vedette/",
+      "title": "A la une",
+      "entries": 16
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/innovation/",
+      "title": "Innovation",
+      "entries": 8
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sujets/non-classe/",
+      "title": "Non classé",
+      "entries": 1
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/type-denceintes/haut-parleur/",
+      "title": "Orateur",
+      "entries": 248
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/type-denceintes/intervenante-invitee/",
+      "title": "Intervenant vedette",
+      "entries": 30
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/type-denceintes/conseil/",
+      "title": "Membre du conseil",
+      "entries": 3
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/type-denceintes/equipe/",
+      "title": "Membre de l'équipe",
+      "entries": 4
+    },
+    {
+      "url": "https://www.zermattsummit.org/topics/non-classe/",
+      "title": "Non classé",
+      "entries": 1
+    },
+    {
+      "url": "https://www.zermattsummit.org/speakers_type/speaker/",
+      "title": "Speaker",
+      "entries": 248
+    },
+    {
+      "url": "https://www.zermattsummit.org/speakers_type/featured-speaker/",
+      "title": "Featured speaker",
+      "entries": 30
+    },
+    {
+      "url": "https://www.zermattsummit.org/speakers_type/board/",
+      "title": "Board member",
+      "entries": 3
+    },
+    {
+      "url": "https://www.zermattsummit.org/speakers_type/team/",
+      "title": "Team member",
+      "entries": 4
+    },
+    {
+      "url": "https://www.zermattsummit.org/summit-2020/registration/",
+      "title": "Registration is closed",
+      "entries": 0
+    },
+    {
+      "url": "https://www.zermattsummit.org/fr/sommet-2020/inscription/",
+      "title": "Les inscriptions sont closes",
+      "entries": 0
+    }
+  ],
+  "referencedMedia": 1021,
+  "missingMedia": [
+    "/wp-content/uploads/2021/09/untitled-design.png",
+    "/wp-content/uploads/2018/06/3-Joost-Wouters-200x200.jpg",
+    "/wp-content/uploads/2020/06/ZS_Program-2010.pdf",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-394-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-412-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-429-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-450-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-491-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-524-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-548-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-608-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-609-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-629-scaled.jpg",
+    "/wp-content/uploads/2020/06/d2_zermatt_summit-656-scaled.jpg",
+    "/wp-content/uploads/2020/06/hon-mary-k-bush_2010-scaled.jpg",
+    "/wp-content/uploads/2020/03/jeanstaune1-300x300.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-060.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-076.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-086.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-146.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-177.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-230.jpg",
+    "/wp-content/uploads/2020/06/zermatt-summit-2013-web-280.jpg",
+    "/wp-content/uploads/2020/06/ZS_Program-_2014.pdf",
+    "/wp-content/uploads/2020/06/ZS_speakers-and-program-2017.pdf",
+    "/wp-content/uploads/2020/06/9r4a5270-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0575-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0609-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0642-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0673-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0687-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0693-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0702-scaled.jpg",
+    "/wp-content/uploads/2020/06/img_0760-scaled.jpg",
+    "/wp-content/uploads/2018/03/zs_executivesummary_2017_sm.pdf",
+    "/wp-content/uploads/2018/03/zermatt_summit_2017_brief_report_eng.pdf",
+    "/wp-content/uploads/2018/03/zermatt_summit_2017_press_release_eng.pdf",
+    "/wp-content/uploads/2020/06/ZS_Program-_2018.pdf",
+    "/wp-content/uploads/2018/07/My-climate_logo.jpg",
+    "/wp-content/uploads/2018/07/My-climate_logo-300x118.jpg",
+    "/wp-content/uploads/2020/06/ZS_Program_2019.pdf",
+    "/wp-content/uploads/2020/07/briac-barthes.png",
+    "/wp-content/uploads/2020/07/giuseppe-lavazza-scaled.jpg",
+    "/wp-content/uploads/2020/03/jeanstaune1.jpg",
+    "/wp-content/uploads/2020/07/turkson_photo.jpg",
+    "/wp-content/uploads/2020/06/d1-zs-collaborative-workshop-1.jpg",
+    "/wp-content/uploads/2020/06/d2-zs-collaborative-workshop-2-96.jpg",
+    "/wp-content/uploads/2020/06/group-zermatt-summit-001.jpg",
+    "/wp-content/uploads/2020/06/zs_12_day-1-with-board-and-alain-berset.jpg",
+    "/wp-content/uploads/2020/08/manfred-max-neef-keynote-zs-2012-768x514.png",
+    "/wp-content/uploads/2020/08/manfred-max-neef-keynote-zs-2012.png",
+    "/wp-content/uploads/2019/11/Handelszeitung-Networking-19.9.19-Gemeinwohl-Gipfel.pdf",
+    "/wp-content/uploads/2018/09/ms_lettre_Zermatt_en.pdf",
+    "/wp-content/uploads/2018/09/dossier_prix_international.pdf",
+    "/wp-content/uploads/2020/12/mwheatley-final-0436-300dpi-scaled.jpg",
+    "/wp-content/uploads/2020/09/gagandeep-singh-h76ydiaozoq-unsplash-scaled.jpg",
+    "/wp-content/uploads/2015/09/nicefuture.png",
+    "/wp-content/uploads/2013/03/ZS_Mailingbrochure_2013.pdf",
+    "/wp-content/uploads/2012/08/Revue_Presse-Zermatt_Summit_160712.pdf",
+    "/wp-content/uploads/2012/03/ZNLF_encart_depliant-HD.pdf",
+    "/wp-content/uploads/2020/02/henri-liang.png"
+  ],
+  "captureErrors": {
+    "https://www.zermattsummit.org/wp-content/uploads/2012/03/ZNLF_encart_depliant-HD.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2012/08/Revue_Presse-Zermatt_Summit_160712.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2013/03/ZS_Mailingbrochure_2013.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2015/09/nicefuture-1200x1225.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2015/09/nicefuture-768x784.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2015/09/nicefuture.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/03/zermatt_summit_2017_brief_report_eng.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/03/zermatt_summit_2017_press_release_eng.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/03/zs_executivesummary_2017_sm.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/06/3-Joost-Wouters-200x200.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/07/My-climate_logo-1024x403.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/07/My-climate_logo-1200x472.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/07/My-climate_logo-300x118.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/07/My-climate_logo-768x302.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/07/My-climate_logo.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/09/dossier_prix_international.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2018/09/ms_lettre_Zermatt_en.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2019/11/Handelszeitung-Networking-19.9.19-Gemeinwohl-Gipfel.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/02/henri-liang.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/02/zermatt-1024x730.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/02/zermatt-1200x855.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/02/zermatt.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/03/jeanstaune1-150x150.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/03/jeanstaune1-300x300.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/03/jeanstaune1.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/9r4a5270-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/ZS_Program-2010.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/ZS_Program-_2014.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/ZS_Program-_2018.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/ZS_Program_2019.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/ZS_speakers-and-program-2017.pdf": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d1-zs-collaborative-workshop-1.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2-zs-collaborative-workshop-2-96.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-394-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-412-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-429-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-450-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-491-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-524-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-548-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-608-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-609-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-629-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/d2_zermatt_summit-656-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/group-zermatt-summit-001.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/hon-mary-k-bush_2010-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0575-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0609-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0642-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0673-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0687-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0693-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0702-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/img_0760-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-060.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-076.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-086.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-146.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-177.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-230.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zermatt-summit-2013-web-280.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/06/zs_12_day-1-with-board-and-alain-berset.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/briac-barthes-1122x1536.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/briac-barthes-1200x1642.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/briac-barthes-748x1024.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/briac-barthes-768x1051.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/briac-barthes.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/giuseppe-lavazza-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/07/turkson_photo.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/08/manfred-max-neef-keynote-zs-2012-1024x685.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/08/manfred-max-neef-keynote-zs-2012-1200x803.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/08/manfred-max-neef-keynote-zs-2012-768x514.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/08/manfred-max-neef-keynote-zs-2012.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/09/gagandeep-singh-h76ydiaozoq-unsplash-1980x1485.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/09/gagandeep-singh-h76ydiaozoq-unsplash-2048x1536.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/09/gagandeep-singh-h76ydiaozoq-unsplash-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/10/3.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/11/eugene-zhyvchik-xjy-7gtc38o-unsplash-2048x1365.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2020/12/mwheatley-final-0436-300dpi-scaled.jpg": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2021/09/untitled-design-1536x1090.png": "curl: (56) The requested URL returned error: 404\n",
+    "https://www.zermattsummit.org/wp-content/uploads/2021/09/untitled-design.png": "curl: (56) The requested URL returned error: 404\n"
+  }
+}
